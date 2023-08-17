@@ -9,3 +9,4 @@ Bienvenidos al Repositorio del GRUPO 4 del PROYECTO STEAM
 Al1os = Saul Rojas
 Jimfelony = Maximiliano Lopez
 piaguero = pia zubeldia
+<br> HazimeKarime = Karime Hazime
